@@ -1,0 +1,14 @@
+class Settings{
+    
+  constructor(){
+  }
+
+
+
+
+
+  display(){
+    
+  }
+
+}
